@@ -1,0 +1,22 @@
+{
+  "name": "comprehensive-app-backend",
+  "version": "1.0.0",
+  "description": "Backend for the Comprehensive App using Node.js, Express.js, and MongoDB.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9",
+    "socket.io": "^4.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}

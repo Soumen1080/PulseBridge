@@ -1,0 +1,5 @@
+class IndexController {
+  // ...controller methods...
+}
+
+module.exports = IndexController;

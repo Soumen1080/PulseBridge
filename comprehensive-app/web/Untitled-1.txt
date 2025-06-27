@@ -1,0 +1,2 @@
+const IndexController = require('../controllers/index');
+const indexController = new IndexController();
