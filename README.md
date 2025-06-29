@@ -1,10 +1,8 @@
-# 🔗 PulseBridge
+77# 🔗 PulseBridge
 
 **PulseBridge** is a real-time, cross-platform messaging and file-sharing application that seamlessly connects your mobile phone and laptop. It allows you to share code, text, images, videos, and files instantly — with live popup notifications across all your connected devices.
 
 > 🚀 One app. Two devices. Instant sync.
-
----
 
 
 ## 📌 Features
